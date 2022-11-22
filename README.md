@@ -5,6 +5,11 @@
   <b>Nataliya Bot</b>
 </h1>
 
+Please 🙏 Use My Referral Link In Your Shortner
+It'll Help Us A Lot
+🔷TnLink Referral Link : https://tnlink.in/ref/Karuna
+🔷Easysky Referrel Link : https://easysky.in/ref/Kkaru
+
 ## Deploy
 You can deploy this bot anywhere.
 
@@ -33,8 +38,11 @@ python3 bot.py
 </p>
 </details>
 
-All Credit Goes To Eva Maria Team And Thanks To Subin For Making This Amazing Repo I Just Edited It With Shortner 
+All Credit Goes To Eva Maria Team
+Thanks To Subin For Making This Amazing Repo I Just Edited It With Shortner 
 
+Our Telegram Channel: https://telegram.me/TVSeriesCW
+Our Feedback Group: https://t.me/+z8xv6UFIqc1mZTE1
 
 ## Commands
 ```
