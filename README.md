@@ -33,6 +33,8 @@ python3 bot.py
 </p>
 </details>
 
+All Credit Goes To Eva Maria Team And Thanks To Subin For Making This Amazing Repo I Just Edited It With Shortner 
+
 
 ## Commands
 ```
