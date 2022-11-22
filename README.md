@@ -7,8 +7,9 @@
 
 Please 🙏 Use My Referral Link In Your Shortner
 It'll Help Us A Lot
-🔷TnLink Referral Link : https://tnlink.in/ref/Karuna
-🔷Easysky Referrel Link : https://easysky.in/ref/Kkaru
+
+TnLink Referral Link : https://tnlink.in/ref/Karuna
+Easysky Referrel Link : https://easysky.in/ref/Kkaru
 
 ## Deploy
 You can deploy this bot anywhere.
