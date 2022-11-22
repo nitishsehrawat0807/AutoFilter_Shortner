@@ -51,7 +51,7 @@ async def start(client, message):
             InlineKeyboardButton('SΞᏒIΞS GᏒOUᎮ⚡', url='https://t.me/HeavenOfSeries')
             ],[
             InlineKeyboardButton('MΛIN CHΛNNΞL✨', url='https://t.me/TVSeriesCW/2202'),
-            InlineKeyboardButton('REPO Link♨️', url='https://github.com/TVserieSCW/AutoFilter_Shortner')
+            InlineKeyboardButton('REPO LINK♨️', url='https://github.com/TVserieSCW/AutoFilter_Shortner')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -97,7 +97,7 @@ async def start(client, message):
             InlineKeyboardButton('SΞᏒIΞS GᏒOUᎮ⚡', url='https://t.me/HeavenOfSeries')
             ],[
             InlineKeyboardButton('MΛIN CHΛNNΞL✨', url='https://t.me/TVSeriesCW/2202'),
-            InlineKeyboardButton('VIᎮ SΞΛᏒCH 🔎', url='https://github.com/TVserieSCW/AutoFilter_Shortner')
+            InlineKeyboardButton('REPO LINK♨️', url='https://github.com/TVserieSCW/AutoFilter_Shortner')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
