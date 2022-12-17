@@ -26,12 +26,12 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/KarunTG/EKSH&branch=advance&name=eksh)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TVSeriesCW/autofilter_shortnet&branch=tnlink&name=tnlink)
 
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
+git clone https://github.com/TVserieSCW/AutoFilter_Shortner
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
